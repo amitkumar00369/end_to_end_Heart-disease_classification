@@ -1,5 +1,5 @@
 # end_to_end_Heart-disease_classification
-# End-to-End Heart Disease Classification
+
 
 This project is an end-to-end heart disease classification using six different machine learning algorithms: Decision Tree, K-Nearest Neighbors (KNN), Random Forest, Support Vector Classification (SVC), Linear Support Vector Classification (LinearSVC), and Logistic Regression. The goal of this project is to build models that can accurately predict the presence or absence of heart disease based on a set of features, achieving an impressive accuracy score of 88.86% by Logistic Regression.
 
